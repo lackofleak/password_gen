@@ -18,7 +18,7 @@
   - by numbers
   - by abc...
   - by symbols
- - all
+  - all
 - save passwords as txt if you want
   - you may use it in cracking app
 - Enter you favorite characters to generate passwords !

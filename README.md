@@ -2,11 +2,7 @@
 <img src = "https://github.com/lackofleak/password_gen/blob/main/Password%20Generator.png"  width="1080" height="300" />
 
 -------------------------------------------------
-<p align="center" >
-  <img src="https://svgshare.com/i/Zhy.svg" />
-  <img src="https://svgshare.com/i/ZjP.svg" />
-  <img src="https://svgshare.com/i/ZhY.svg" />
-<p/>
+
 <p align="center" >
   <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" />
 </p>
